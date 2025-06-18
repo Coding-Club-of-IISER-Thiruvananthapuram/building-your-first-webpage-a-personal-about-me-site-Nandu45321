@@ -1,0 +1,44 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 1.6rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+h4 {
+    font-size: 1.1rem;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+a:visited {
+    color: green;
+}
+
+a:link {
+    color: green;
+}
+
+#social-media {
+    color: grey;
+}
+
+.experience {
+    font-style: italic;
+    color: #333;
+    font-size: 0.9rem;
+    margin: 10px 0;
+}
